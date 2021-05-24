@@ -2,7 +2,7 @@
 
 ## Live Application URL
 
-### 
+### https://snarjun98.github.io/dynamicform/
 This URL has the application deployed in Github Pages
 
 ## Prerequisites
