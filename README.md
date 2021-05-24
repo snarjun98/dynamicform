@@ -17,6 +17,9 @@ npm install -g create-react-app
 ## Cloning and Running the Application in local
 
 Clone the project into local
+```bash
+$ git clone https://github.com/snarjun98/dynamicform.git
+```
 
 Install all the  packages. Go into the project folder and type the following command to install all  packages
 
